@@ -11,5 +11,6 @@ public class RestaurantInfo {
         System.out.println("Business Address: " + streetAddress);
         System.out.println("City, State, Zip Code: " + city + ", " + state + " " + zipCode);
     }
-}
+
+
 
